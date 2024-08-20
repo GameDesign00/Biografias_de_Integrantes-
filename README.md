@@ -3,6 +3,7 @@
 
 # Mayra M. Lago Lemos, nació en 2004 en Santiago de Cuba, Cuba. Años después emigró a Puerto Rico junto a sus padres y hermano menor. Estudia Ciencias de Cómputos en la Universidad de Puerto Rico recinto de Río Piedras y actualmente cursa su tercer año. Le interesan las áreas de desarrollo de videojuegos, desarrollo de software e inteligencia artificial. Durante sus estudios de escuela superior fue coach del equipo de robótica de su escuela y participó de numerosas actividades relacionadas a las ciencias de cómputos. 
 # Tiene experiencia trabajando con c++, php y html. Además de que se encuentra trabajando en la creación de una aplicación y restauración de una página web.
+#-----------------------------------------------------------------------------------------------
 
 ![Sebastian](https://github.com/user-attachments/assets/42e68806-73b5-4c7c-9f5f-6bc2a7ffb14a)
 
