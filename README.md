@@ -5,6 +5,6 @@
 # Tiene experiencia trabajando con c++, php y html. Además de que se encuentra trabajando en la creación de una aplicación y restauración de una página web.
 
 # Sebastián Negrón Padilla nació el 6 de mayo de 2003 en Manatí, Puerto Rico. Durante sus años de escuela intermedia y superior dedicó su tiempo a tocar saxofón y atletismo.  Se graduó en el 2021 del Colegio de la Inmaculada Concepción, Manatí. Actualmente esta haciendo su bachillerato en Ciencia de Cómputos en la Universidad de Puerto Rico, Río Piedras. Le interesa mucho el tema de las redes de computadoras.
-En su tiempo libre, Sebastián dedica su tiempo a levantar pesas, el motociclismo y leer. 
+# En su tiempo libre, Sebastián dedica su tiempo a levantar pesas, el motociclismo y leer. 
 
 
