@@ -2,6 +2,7 @@
 # La experiencia que tiene en el desarrollo de videojuegos es mínima al igual que de inteligencia artificial ya que se ha dedicado más al desarrollo de páginas web y el dominio de varios otros lenguajes de programación. Por ejemplo  conoce de python, c++, php, html y css.
 
 
+![MayraImagenSemblanza](https://github.com/user-attachments/assets/d31312c1-9b44-4689-89cd-b577db6eb5d4)
  
 # Mayra M. Lago Lemos, nació en 2004 en Santiago de Cuba, Cuba. Años después emigró a Puerto Rico junto a sus padres y hermano menor. Estudia Ciencias de Cómputos en la Universidad de Puerto Rico recinto de Río Piedras y actualmente cursa su tercer año. Le interesan las áreas de desarrollo de videojuegos, desarrollo de software e inteligencia artificial. Durante sus estudios de escuela superior fue coach del equipo de robótica de su escuela y participó de numerosas actividades relacionadas a las ciencias de cómputos. 
 # Tiene experiencia trabajando con c++, php y html. Además de que se encuentra trabajando en la creación de una aplicación y restauración de una página web.
