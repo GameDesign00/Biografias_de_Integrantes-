@@ -1,6 +1,6 @@
 # Jancarlos Gonzalez nació en Ponce, Puerto Rico en 2004. Creció en el pueblo de Jayuya allí estudió elemental, intermedia y noveno. Luego de eso se fue a estudiar a Ponce por dos años. Para luego volver a Jayuya a estudiar cuarto año. Actualmente vive en Ponce pero reside en Río Piedras en lo que termina su bachillerato en ciencias de cómputos. Espera graduarse para el 2026. Algunos de sus intereses son los videojuegos e inteligencia artificial. 
 # La experiencia que tiene en el desarrollo de videojuegos es mínima al igual que de inteligencia artificial ya que se ha dedicado más al desarrollo de páginas web y el dominio de varios otros lenguajes de programación. Por ejemplo  conoce de python, c++, php, html y css.
-
+# -----------------------------------------------------------------------
 
 ![MayraImagenSemblanza](https://github.com/user-attachments/assets/d31312c1-9b44-4689-89cd-b577db6eb5d4)
  
